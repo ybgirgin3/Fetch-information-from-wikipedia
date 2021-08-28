@@ -13,15 +13,18 @@ for url in url_list:
         fn = url.split('/')[-1]
         html = urlopen(url).read()
         soup = BS(html, features="html.parser")
-        for script in soup(["script", "style"]):
-            script.extract()    # rip it out
+        page = soup.find('p').get_text()
+        print(page)
+        #for script in soup(["script", "style"]):
+        #    script.extract()    # rip it out
 
-        for p in soup.find_all('p', text=True, recursive=True):
-            print("""
-                {}
+        #for p in soup.find_all('p', text=True, recursive=True):
+        #for p in soup.find_all('p').getText():#, text=True, recursive=True):
+        #    print("""
+        #        {}
 
-            """.format(fn))
-            print(p)
+        #    """.format(fn))
+        #    print(p)
 
              
         #for parag in soup.find_all('p'):

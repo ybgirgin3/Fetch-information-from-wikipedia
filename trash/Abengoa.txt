@@ -1,0 +1,491 @@
+<bound method Tag.get_text of <p>On March 29, 2016, Abengoa filed for bankruptcy in the United States.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</p>><bound method Tag.get_text of <p><b>Abengoa, S.A.</b> is a Spanish multinational company in the green <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a>, <a class="mw-redirect" href="/wiki/Energy_sector" title="Energy sector">energy</a> and <a class="mw-redirect" href="/wiki/Water_sector" title="Water sector">water</a> sectors. The company was founded in 1941 by Javier Benjumea Puigcerver and José Manuel Abaurre Fernández-Pasalagua,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> and is based in <a class="mw-redirect" href="/wiki/Seville,_Spain" title="Seville, Spain">Seville, Spain</a>. Its current chairman is Gonzalo Urquijo Fernández de Araoz. After repeated bankruptcies and rescues, it declared insolvency in February 2021 amid various regulatory and financial charges against the board and management, the second-largest corporate collapse in Spanish history.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>><bound method Tag.get_text of <p>Abengoa invests in research in <a class="mw-redirect" href="/wiki/Sustainable_technology" title="Sustainable technology">sustainable technology</a>, and implements these technologies in Spain as well as exporting them globally.  These technologies include <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">concentrated solar power</a> and <a href="/wiki/Desalination" title="Desalination">desalination</a>.
+</p>><bound method Tag.get_text of <p>In 2014, Abengoa and <a href="/wiki/Subsidiary" title="Subsidiary">subsidiaries</a> employed approximately 20,250 people, operating in more than 80 countries.<sup class="reference" id="cite_ref-AR2014_03_6-0"><a href="#cite_note-AR2014_03-6">[6]</a></sup>
+</p>><bound method Tag.get_text of <p>On 4 January 1941, Javier Benjumea Puigcerver and José Manuel Abaurre Fernández-Pasalagua, both engineers from the Instituto Católico de Artes e Industrias (ICAI), founded Sociedad Abengoa <sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> S.L. in Seville (Spain) with three friends and other family members, with an initial share capital of 180,000 pesetas. Their initial plan was to manufacture a five-ampere mono-phase meter, although the supply problems in Spain at that time meant that the project never got off the ground. But this fact, combined with significant opportunities that began to arise during this era, meant that from 1943 Abengoa began drafting projects and carrying out technical studies, as well as undertaking electrical assembly projects.
+</p>><bound method Tag.get_text of <p><a class="mw-redirect" href="/wiki/Befesa" title="Befesa">Befesa</a> is an Abengoa subsidiary specializing in the integral management of <a href="/wiki/Industrial_waste" title="Industrial waste">industrial wastes</a> and the generation and management of water.
+</p>><bound method Tag.get_text of <p>Abengoa began its involvement in the development of solar technologies in 1984 with the construction of the Solar Almeria Platform in Spain.
+</p>><bound method Tag.get_text of <p>In 2008, the <a class="mw-redirect" href="/wiki/US_Department_of_Energy" title="US Department of Energy">US Department of Energy</a> awarded Abengoa Solar two <a href="/wiki/Research_and_development" title="Research and development">research and development</a> projects in the field of  <a class="mw-redirect" href="/wiki/Concentrating_Solar_Power" title="Concentrating Solar Power">Concentrating Solar Power</a> (CSP) that total over $14 million. The goal of the R&amp;D program is to develop CSP technologies that are competitive with conventional energy sources (<a href="/wiki/Grid_parity" title="Grid parity">grid parity</a>) by 2015.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>><bound method Tag.get_text of <p>On July 3, 2010, US President <a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a> announced that the <a class="mw-redirect" href="/wiki/US_Department_of_Energy" title="US Department of Energy">US Department of Energy</a> conditionally committed to offering a $1.45 billion <a href="/wiki/Loan_guarantee" title="Loan guarantee">loan guarantee</a> to support construction by Abengoa Solar of the <a href="/wiki/Solana_Generating_Station" title="Solana Generating Station">Solana Generating Station</a>, in Maricopa County, Arizona.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+It is set to begin operation in 2013. (Operational Oct 2013)
+</p>><bound method Tag.get_text of <p>The <a href="/wiki/Mojave_Solar_Project" title="Mojave Solar Project">Mojave Solar Project</a> in the Mojave desert in California entered commercial operation in 2014.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>><bound method Tag.get_text of <p>Abengoa are constructing three CSP plants in South Africa for Eskom,  Khai (50 MW), Xina (100MW) and Kaxu (100 MW)
+Abengoa are also constructing a 400kV Transmission line for Eskom .
+</p>><bound method Tag.get_text of <p><b>Abengoa Bioenergy</b> is a global biotechnology company specializing in the development of new technologies in producing biofuels and biochemicals and promoting sustainability of raw materials.
+</p>><bound method Tag.get_text of <p>AB constructed a <a href="/wiki/Biomass" title="Biomass">biomass</a>-to-<a href="/wiki/Ethanol" title="Ethanol">ethanol</a> facility in Hugoton, Kansas that produced <a class="mw-redirect" href="/wiki/Second_generation_biofuels" title="Second generation biofuels">second generation biofuels</a>.  The refinery went online and it was full production by 2014.  It was operated by Abengoa Bioenergy Biomass of Kansas, a company of Abengoa Bioenergy.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>  The Hugoton plant never did reach production level and was shuttered as a failure in 2015.  The project was heavily criticized as yet another fleecing of the American taxpayer.
+</p>><bound method Tag.get_text of <p>Abengoa Bioenergy also has a joint venture <a href="/wiki/Biofuel" title="Biofuel">biofuel</a> plant with <a class="mw-redirect" href="/wiki/Ebro_Puleva" title="Ebro Puleva">Ebro Puleva</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>><bound method Tag.get_text of <p>The feedstock comprises woody and non-woody cellulosic biomass provided by plant biomass, agricultural wastes, forestry residues, and sugar processing residues. Currently the most important grain cereal for production of bioethanol in Abengoa Bioenergy's plants are wheat, barley, corn and sorghum. In Abengoa Bioenergy Brazil, the company grows sugarcane while maintaining sustainable rural development methods, biodiversity, and regional economic growth. Other plants produce second-generation bioethanol from a combination of corn stover, wheat straw, oat straw, barley straw, hardwood, switchgrass. Converting starch from cereals through fermentation creates a high protein co-product that is a source of vegetable protein, energy, fiber and vitamins, and is used to produce cattle feed.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>><bound method Tag.get_text of <p>Lignocellulosic raw material is first milled and cleaned before pre-treatment. Pre-treatment consists of contacting the cellulosic biomass feedstock with an acidic liquid medium to form an acid-impregnated biomass feedstock, then contacting the feedstock with H2O at elevated temperature and pressure to solubilize hemicellulose resulting in a steam treated feedstock. The biomass is then subjected to a depressurization zone to further solubilize hemicellulose and producing a volatilized fraction. Temperature and pressure within the depressurization zone is controlled by releasing a portion of the volatilized fraction.<sup class="reference" id="cite_ref-faqs.org_14-0"><a href="#cite_note-faqs.org-14">[14]</a></sup>
+</p>><bound method Tag.get_text of <p>Acid impregnation prepares the feedstock for enzymatic hydrolysis to produce fermentable sugars by increasing bioavailability of feedstock. Feedstock is introduced to an acid impregnation vessel consisting of hydrochloric acid, sulfuric acid, sulfurous acid, sulfur dioxide, nitric acid, and combinations thereof.<sup class="reference" id="cite_ref-faqs.org_14-1"><a href="#cite_note-faqs.org-14">[14]</a></sup> The acidic liquid medium contains an acid concentration of less than 5 wt %.<sup class="reference" id="cite_ref-faqs.org_14-2"><a href="#cite_note-faqs.org-14">[14]</a></sup> Acid impregnation involves soaking or spraying the liquid medium to the feedstock. Either method involves agitation or mixing for 1–13 minutes to promote dispersion of the acid throughout the feedstock. Impregnation of feedstock results in degradation of fibers as the hold time and temperature reach certain limits.
+</p>><bound method Tag.get_text of <p>When soaking, the entire mass of feedstock is submerged in acidic liquid medium to promote bulk movement of the feedstock to provide dynamic and continuous contact of the feedstock and acidic liquid medium. To promote dynamic physical contact and dispersion of the acidic liquid medium to feedstock, the feedstock/acidic liquid medium slurry is agitated. Soaked biomass feedstock is dewatered to reduce its moisture content.
+</p>><bound method Tag.get_text of <p>Less acidic liquid medium is used so material costs are reduced, and avoids the need for dewatering. The feedstock is agitated to disperse the acid throughout the feedstock.
+</p>><bound method Tag.get_text of <p>Acidic liquid medium may include a surfactant to promote dispersion of acid throughout the resulting acid-impregnated biomass slurry by reducing surface tension of the liquid medium. Suitable surfactants are <a href="/wiki/Biodegradation" title="Biodegradation">bio-degradable</a>, non-toxic, and are commercially available. Nonionic surfactants are preferred as their performance is unaffected by the presence of an acidic liquid medium, such as alcohols.
+</p>><bound method Tag.get_text of <p>Heating during acid impregnation is also employed to promote dispersion of acid throughout the resulting acid impregnated biomass slurry. The biomass feedstock/dilute acid mixture is heated to temperatures of at least 10-40C.<sup class="reference" id="cite_ref-faqs.org_14-3"><a href="#cite_note-faqs.org-14">[14]</a></sup> However, heating at this stage does not significantly solubilize hemicellulose component. Instead it is used to minimize and avoid solubilization of hemicellulose. The feedstock is heated in a low moisture environment of a relative humidity of less than 80-100% (specifically, less than 50-70 wt %).<sup class="reference" id="cite_ref-faqs.org_14-4"><a href="#cite_note-faqs.org-14">[14]</a></sup> Moisture inhibits the dispersion of acid throughout the feedstock, or results in an uneven acid dispersion. Low moisture content of acid-impregnated feedstock reduces the energy required during subsequent heating.
+</p>><bound method Tag.get_text of <p>Acid impregnated feedstock results in a slurry with biomass solids dispersed throughout the acidic liquid medium with total solids of at least 25 wt% (0.35 - 0.65 g solids per g wet mixture). Temperature of the acid-impregnated biomass becomes the same as the acidic liquid medium (20-95C). Additionally the pH of the acid-impregnated biomass becomes less than 4. Total glucan content of acid-impregnated feedstock is about 25-50%.<sup class="reference" id="cite_ref-faqs.org_14-5"><a href="#cite_note-faqs.org-14">[14]</a></sup>
+</p>><bound method Tag.get_text of <p>After acid-impregnation, the feedstock is subjected to elevated temperature and pressure in the presence of H2O, then discharged to an environment of reduced pressure to break down the cellulose-hemicellulose-lignin complex. Steam treatment dissociates cellulose from hemicellulose and lignin for enzymatic hydrolysis to produce fermentable sugars. Steam is introduced at a pressure of at least 75-150 psig. The acid-impregnated feedstock and H2O are introduced into the same vessel under a pressure of about 75-250 psig.<sup class="reference" id="cite_ref-faqs.org_14-6"><a href="#cite_note-faqs.org-14">[14]</a></sup>
+</p>><bound method Tag.get_text of <p>Temperature of steam is about 160-220C. Uniform moisture from the water vapor of steam treatment, promotes uniform temperature of the feedstock. To promote even temperature distribution throughout the vessel, the total solids content of the feedstock is maintained from about 30-70 wt % by direct steam injection as higher moisture feedstocks hinders steam penetration and heat transfer throughout the feedstock.<sup class="reference" id="cite_ref-faqs.org_14-7"><a href="#cite_note-faqs.org-14">[14]</a></sup> If necessary, feedstock may be dewatered by removing excess acidic liquid medium using a mechanical solid/liquid separation device such as a dewatering screw press.
+</p>><bound method Tag.get_text of <p>The abrupt change in pressure by withdrawing or removing the pretreated feedstock to a vessel of reduced pressure (above atmospheric pressure) degrades the lignin-hemicellulose-cellulose complex. To maintain adequate and rapid depressurization for effective degradation of fiber structures, the pressure at the outlet differs by less than 50-100 psig.<sup class="reference" id="cite_ref-faqs.org_14-8"><a href="#cite_note-faqs.org-14">[14]</a></sup>
+</p>><bound method Tag.get_text of <p>Steam treatment reduces the size of particulate solids of the acid-impregnated feedstock to provide an increase in exposed surface area of cellulose and/or hemicellulose for enzymatic hydrolysis.
+</p>><bound method Tag.get_text of <p><b>Dyadic International</b> is a global biotechnology company focused on the discovery, development, manufacturing, and sale of enzyme and protein products for bioenergy, biochemical, biopharmaceutical and <a class="mw-redirect" href="/wiki/Industrial_enzyme" title="Industrial enzyme">industrial enzyme</a> industries. Dyadic utilizes its patented C1 fungus to develop and manufacture low cost proteins and enzymes for diverse market opportunities. Dyadic actively pursues licensing arrangements and other commercial opportunities to leverage the value of their technologies by providing its partners with the benefits of manufacturing and/or utilizing the enzymes which these technologies help produce.<sup class="reference" id="cite_ref-prnewswire.com_15-0"><a href="#cite_note-prnewswire.com-15">[15]</a></sup>
+</p>><bound method Tag.get_text of <p>Dyadic's license agreement with Abengoa Bioenergy gives them the right to use Dyadic's C1 platform technology to develop, manufacture and sell enzymes for use in second generation biorefining processes to convert biomass into sugars for the production of fuels.<sup class="reference" id="cite_ref-prnewswire.com_15-1"><a href="#cite_note-prnewswire.com-15">[15]</a></sup>
+</p>><bound method Tag.get_text of <p>C1 is based on the <i>Myceliopthora thermophila</i> fungal expression system for gene discovery, expression, and production of enzymes and other proteins.<sup class="reference" id="cite_ref-dyadic.com_16-0"><a href="#cite_note-dyadic.com-16">[16]</a></sup> Dyadic scientists have developed strains of this fungal microorganism to go from gene discovery to commercial manufacturing using the same host organism. It's integrated and patented C1 platform eliminates many of the bottlenecks of protein discovery, development, scale-up and commercialization.<sup class="reference" id="cite_ref-dyadic.com_16-1"><a href="#cite_note-dyadic.com-16">[16]</a></sup> Thus, enabling new product introduction with less time, cost and risk.
+</p>><bound method Tag.get_text of <p>DNA from various sources including individual organisms, environmental samples, or collections of genes can be fragmented and cloned into Dyadic's specialized C1 expression vectors. The resulting cultures are distributed into cultures and are allowed to grow to create a gene expression library. The collection can be further used to create replicates, or stored away for later use. The target protein are screened against the gene library. To make a commercially viable product, Dyadic researchers use the "C1 Express" Hyperproducing Protein Expression System to increase the expression level of the gene of interest. Because the same C1 organism is used for gene discovery and expression, the probability of successfully increasing the level of protein expression is very high.
+</p>><bound method Tag.get_text of <p>Dyadic currently sells more than 55 enzyme products to more than 150 industrial customers in approximately 50 countries for a broad range of industries including biofuels, bio-based chemicals, biopharmaceuticals, animal health and nutrition, pulp and paper, textiles, food and beverage, and nutraceuticals.<sup class="reference" id="cite_ref-dyadic.com_16-2"><a href="#cite_note-dyadic.com-16">[16]</a></sup>
+</p>><bound method Tag.get_text of <p>Abengoa's biomass pilot plant opened in 2008 in York, Nebraska. This $35 million biomass facility will exclusively research and develop ethanol production processes using enzymatic hydrolysis and lignocellulosic biomass as a feedstock. The York facility will research and test proprietary technology for its commercial-scale facilities. The plant currently operates at 100% of its capacity and continues to demonstrate excellent efficiency and consistent operation. The York pilot plant uses an annual consumption of 520,000 tons of corn stover to produce 56 Mgal(210 ML) of bioethanol per year, through continuous batch cooking and fermenting process.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>><bound method Tag.get_text of <p>In 2009, the biomass plant <b>Biocarburantes Castilla y León</b> (BCyL) started operation as the first demonstration plant to process biomass-to-ethanol on a commercial scale. The plant produces 1.3 Mgal/year using wheat and barley straw biomass.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>><bound method Tag.get_text of <p>The construction of this commercial scale biorefinery facility by <b>Abengoa Bioenergy Biomass of Kansas</b> (ABBK) allowed them to use their proprietary technology that they developed over the last decade to produce cost-effective and renewable liquid fuel from plantfiber or cellulosic biomass. The plant produced 25 Mgal/year from 350, 000 tons of biomass/year. The residues of the biorefinery process were combusted with 300 tons/day of fry, raw biomass material to produce 18 megawatts of electricity to power the entire facility to make it energy efficient and environmentally friendly. The plant was in full production by 2014.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> The plant officially opened on October 17, 2014.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> The plant shut down its operation on December 10, 2015.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p>><bound method Tag.get_text of <p>Abeinsa is the branch of Abengoa responsible for engineering and construction. This company is consolidated <a class="new" href="/w/index.php?title=Abener_Engineering_and_Construction_Services&amp;action=edit&amp;redlink=1" title="Abener Engineering and Construction Services (page does not exist)">Abener Engineering and Construction Services</a>, <a class="new" href="/w/index.php?title=Teyma&amp;action=edit&amp;redlink=1" title="Teyma (page does not exist)">Teyma</a>, and <a class="new" href="/w/index.php?title=Abacus_Project_Management&amp;action=edit&amp;redlink=1" title="Abacus Project Management (page does not exist)">Abacus Project Management</a>.
+</p>><bound method Tag.get_text of <p>In January 2015, Abengoa announced it had raised $328 million from selling shares at its <a class="mw-redirect" href="/wiki/US" title="US">US</a> division following further purchases of their stock from banks underwriting the offer.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p>><bound method Tag.get_text of <p>In November 25, 2015 Abengoa started insolvency proceedings which could lead to Spain's largest <a href="/wiki/Bankruptcy" title="Bankruptcy">bankruptcy</a> on record, after a <a class="mw-redirect" href="/wiki/Gestamp_Automoci%C3%B3n" title="Gestamp Automoción">Gonvarri</a> said it would not inject 350 million euros into the engineering and renewables company.<sup class="reference" id="cite_ref-insolvency_23-0"><a href="#cite_note-insolvency-23">[23]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> In a 2016 effort to avoid bankruptcy, Abengoa is seeking to reduce its size by 30 percent by selling subsidiaries.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>><bound method Tag.get_text of <p>On February 15, 2016, a Nebraska grain dealer filed a petition to force Abengoa Bioenergy into bankruptcy so as to recover moneys owed to them for past corn deliveries.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p>><bound method Tag.get_text of <p>On March 29, 2016, Abengoa filed for bankruptcy in the United States.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</p>>
+
+
+
+Abengoa - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abengoa
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+Abengoa, S.A.Headquarters in Seville, SpainTypeSociedad AnónimaTraded asBMAD: ABG.PISINES0105200002IndustryEngineering & construction in the infrastructure, energy and water sectors.Founded1941HeadquartersSeville, SpainKey peopleGonzalo Urquijo Fernández de Araoz (Chairman), Joaquín Fernández de Piérola Marín (CEO)ProductsEngineering & construction and Operation and maintenance services, among othersRevenue €1.069 billion (as of 30th Sept 2019)[1]Operating income €195 million (as of 30th Sept 2019)[2]Number of employees 15,260 (as of 30th Sept 2019)[3]Websiteabengoa.com
+Abengoa, S.A. is a Spanish multinational company in the green infrastructure, energy and water sectors. The company was founded in 1941 by Javier Benjumea Puigcerver and José Manuel Abaurre Fernández-Pasalagua,[4] and is based in Seville, Spain. Its current chairman is Gonzalo Urquijo Fernández de Araoz. After repeated bankruptcies and rescues, it declared insolvency in February 2021 amid various regulatory and financial charges against the board and management, the second-largest corporate collapse in Spanish history.[5]
+Abengoa invests in research in sustainable technology, and implements these technologies in Spain as well as exporting them globally.  These technologies include concentrated solar power and desalination.
+In 2014, Abengoa and subsidiaries employed approximately 20,250 people, operating in more than 80 countries.[6]
+
+Contents
+
+1 Origin
+2 Subsidiaries
+
+2.1 Befesa
+2.2 Abengoa Solar
+
+
+3 Abengoa Bioenergy
+
+3.1 Feedstocks
+3.2 Pre-treatment
+
+3.2.1 Acid Impregnation
+
+3.2.1.1 Soaking
+3.2.1.2 Spraying
+3.2.1.3 Wetting agent
+
+
+3.2.2 Steam Treatment (Steam Explosion)
+
+
+3.3 Enzyme Supplier
+3.4 Pilot Plants and Commercialization
+
+3.4.1 York Pilot Plant (Nebraska, US)
+3.4.2 BCyL Demonstration Plant (Salamanca, Spain)
+3.4.3 Hugoton Commercial Hybrid Biomass Plant (Kansas, US)
+
+
+3.5 Abeinsa (Engineering and Construction)
+
+
+4 Financial difficulties
+5 Competitors
+6 See also
+7 References
+
+
+Origin[edit]
+On 4 January 1941, Javier Benjumea Puigcerver and José Manuel Abaurre Fernández-Pasalagua, both engineers from the Instituto Católico de Artes e Industrias (ICAI), founded Sociedad Abengoa [7] S.L. in Seville (Spain) with three friends and other family members, with an initial share capital of 180,000 pesetas. Their initial plan was to manufacture a five-ampere mono-phase meter, although the supply problems in Spain at that time meant that the project never got off the ground. But this fact, combined with significant opportunities that began to arise during this era, meant that from 1943 Abengoa began drafting projects and carrying out technical studies, as well as undertaking electrical assembly projects.
+
+Subsidiaries[edit]
+Befesa[edit]
+Befesa is an Abengoa subsidiary specializing in the integral management of industrial wastes and the generation and management of water.
+
+Abengoa Solar[edit]
+Main article: Abengoa Solar
+Abengoa began its involvement in the development of solar technologies in 1984 with the construction of the Solar Almeria Platform in Spain.
+In 2008, the US Department of Energy awarded Abengoa Solar two research and development projects in the field of  Concentrating Solar Power (CSP) that total over $14 million. The goal of the R&D program is to develop CSP technologies that are competitive with conventional energy sources (grid parity) by 2015.[8]
+On July 3, 2010, US President Barack Obama announced that the US Department of Energy conditionally committed to offering a $1.45 billion loan guarantee to support construction by Abengoa Solar of the Solana Generating Station, in Maricopa County, Arizona.[9]
+It is set to begin operation in 2013. (Operational Oct 2013)
+The Mojave Solar Project in the Mojave desert in California entered commercial operation in 2014.[10]
+Abengoa are constructing three CSP plants in South Africa for Eskom,  Khai (50 MW), Xina (100MW) and Kaxu (100 MW)
+Abengoa are also constructing a 400kV Transmission line for Eskom .
+
+Abengoa Bioenergy[edit]
+Abengoa Bioenergy is a global biotechnology company specializing in the development of new technologies in producing biofuels and biochemicals and promoting sustainability of raw materials.
+AB constructed a biomass-to-ethanol facility in Hugoton, Kansas that produced second generation biofuels.  The refinery went online and it was full production by 2014.  It was operated by Abengoa Bioenergy Biomass of Kansas, a company of Abengoa Bioenergy.[11]  The Hugoton plant never did reach production level and was shuttered as a failure in 2015.  The project was heavily criticized as yet another fleecing of the American taxpayer.
+Abengoa Bioenergy also has a joint venture biofuel plant with Ebro Puleva.[12]
+
+Feedstocks[edit]
+The feedstock comprises woody and non-woody cellulosic biomass provided by plant biomass, agricultural wastes, forestry residues, and sugar processing residues. Currently the most important grain cereal for production of bioethanol in Abengoa Bioenergy's plants are wheat, barley, corn and sorghum. In Abengoa Bioenergy Brazil, the company grows sugarcane while maintaining sustainable rural development methods, biodiversity, and regional economic growth. Other plants produce second-generation bioethanol from a combination of corn stover, wheat straw, oat straw, barley straw, hardwood, switchgrass. Converting starch from cereals through fermentation creates a high protein co-product that is a source of vegetable protein, energy, fiber and vitamins, and is used to produce cattle feed.[13]
+
+Pre-treatment[edit]
+Lignocellulosic raw material is first milled and cleaned before pre-treatment. Pre-treatment consists of contacting the cellulosic biomass feedstock with an acidic liquid medium to form an acid-impregnated biomass feedstock, then contacting the feedstock with H2O at elevated temperature and pressure to solubilize hemicellulose resulting in a steam treated feedstock. The biomass is then subjected to a depressurization zone to further solubilize hemicellulose and producing a volatilized fraction. Temperature and pressure within the depressurization zone is controlled by releasing a portion of the volatilized fraction.[14]
+
+Acid Impregnation[edit]
+Acid impregnation prepares the feedstock for enzymatic hydrolysis to produce fermentable sugars by increasing bioavailability of feedstock. Feedstock is introduced to an acid impregnation vessel consisting of hydrochloric acid, sulfuric acid, sulfurous acid, sulfur dioxide, nitric acid, and combinations thereof.[14] The acidic liquid medium contains an acid concentration of less than 5 wt %.[14] Acid impregnation involves soaking or spraying the liquid medium to the feedstock. Either method involves agitation or mixing for 1–13 minutes to promote dispersion of the acid throughout the feedstock. Impregnation of feedstock results in degradation of fibers as the hold time and temperature reach certain limits.
+
+Soaking[edit]
+When soaking, the entire mass of feedstock is submerged in acidic liquid medium to promote bulk movement of the feedstock to provide dynamic and continuous contact of the feedstock and acidic liquid medium. To promote dynamic physical contact and dispersion of the acidic liquid medium to feedstock, the feedstock/acidic liquid medium slurry is agitated. Soaked biomass feedstock is dewatered to reduce its moisture content.
+
+Spraying[edit]
+Less acidic liquid medium is used so material costs are reduced, and avoids the need for dewatering. The feedstock is agitated to disperse the acid throughout the feedstock.
+
+Wetting agent[edit]
+Acidic liquid medium may include a surfactant to promote dispersion of acid throughout the resulting acid-impregnated biomass slurry by reducing surface tension of the liquid medium. Suitable surfactants are bio-degradable, non-toxic, and are commercially available. Nonionic surfactants are preferred as their performance is unaffected by the presence of an acidic liquid medium, such as alcohols.
+Heating during acid impregnation is also employed to promote dispersion of acid throughout the resulting acid impregnated biomass slurry. The biomass feedstock/dilute acid mixture is heated to temperatures of at least 10-40C.[14] However, heating at this stage does not significantly solubilize hemicellulose component. Instead it is used to minimize and avoid solubilization of hemicellulose. The feedstock is heated in a low moisture environment of a relative humidity of less than 80-100% (specifically, less than 50-70 wt %).[14] Moisture inhibits the dispersion of acid throughout the feedstock, or results in an uneven acid dispersion. Low moisture content of acid-impregnated feedstock reduces the energy required during subsequent heating.
+Acid impregnated feedstock results in a slurry with biomass solids dispersed throughout the acidic liquid medium with total solids of at least 25 wt% (0.35 - 0.65 g solids per g wet mixture). Temperature of the acid-impregnated biomass becomes the same as the acidic liquid medium (20-95C). Additionally the pH of the acid-impregnated biomass becomes less than 4. Total glucan content of acid-impregnated feedstock is about 25-50%.[14]
+
+Steam Treatment (Steam Explosion)[edit]
+After acid-impregnation, the feedstock is subjected to elevated temperature and pressure in the presence of H2O, then discharged to an environment of reduced pressure to break down the cellulose-hemicellulose-lignin complex. Steam treatment dissociates cellulose from hemicellulose and lignin for enzymatic hydrolysis to produce fermentable sugars. Steam is introduced at a pressure of at least 75-150 psig. The acid-impregnated feedstock and H2O are introduced into the same vessel under a pressure of about 75-250 psig.[14]
+Temperature of steam is about 160-220C. Uniform moisture from the water vapor of steam treatment, promotes uniform temperature of the feedstock. To promote even temperature distribution throughout the vessel, the total solids content of the feedstock is maintained from about 30-70 wt % by direct steam injection as higher moisture feedstocks hinders steam penetration and heat transfer throughout the feedstock.[14] If necessary, feedstock may be dewatered by removing excess acidic liquid medium using a mechanical solid/liquid separation device such as a dewatering screw press.
+The abrupt change in pressure by withdrawing or removing the pretreated feedstock to a vessel of reduced pressure (above atmospheric pressure) degrades the lignin-hemicellulose-cellulose complex. To maintain adequate and rapid depressurization for effective degradation of fiber structures, the pressure at the outlet differs by less than 50-100 psig.[14]
+Steam treatment reduces the size of particulate solids of the acid-impregnated feedstock to provide an increase in exposed surface area of cellulose and/or hemicellulose for enzymatic hydrolysis.
+
+Enzyme Supplier[edit]
+Dyadic International is a global biotechnology company focused on the discovery, development, manufacturing, and sale of enzyme and protein products for bioenergy, biochemical, biopharmaceutical and industrial enzyme industries. Dyadic utilizes its patented C1 fungus to develop and manufacture low cost proteins and enzymes for diverse market opportunities. Dyadic actively pursues licensing arrangements and other commercial opportunities to leverage the value of their technologies by providing its partners with the benefits of manufacturing and/or utilizing the enzymes which these technologies help produce.[15]
+Dyadic's license agreement with Abengoa Bioenergy gives them the right to use Dyadic's C1 platform technology to develop, manufacture and sell enzymes for use in second generation biorefining processes to convert biomass into sugars for the production of fuels.[15]
+C1 is based on the Myceliopthora thermophila fungal expression system for gene discovery, expression, and production of enzymes and other proteins.[16] Dyadic scientists have developed strains of this fungal microorganism to go from gene discovery to commercial manufacturing using the same host organism. It's integrated and patented C1 platform eliminates many of the bottlenecks of protein discovery, development, scale-up and commercialization.[16] Thus, enabling new product introduction with less time, cost and risk.
+DNA from various sources including individual organisms, environmental samples, or collections of genes can be fragmented and cloned into Dyadic's specialized C1 expression vectors. The resulting cultures are distributed into cultures and are allowed to grow to create a gene expression library. The collection can be further used to create replicates, or stored away for later use. The target protein are screened against the gene library. To make a commercially viable product, Dyadic researchers use the "C1 Express" Hyperproducing Protein Expression System to increase the expression level of the gene of interest. Because the same C1 organism is used for gene discovery and expression, the probability of successfully increasing the level of protein expression is very high.
+Dyadic currently sells more than 55 enzyme products to more than 150 industrial customers in approximately 50 countries for a broad range of industries including biofuels, bio-based chemicals, biopharmaceuticals, animal health and nutrition, pulp and paper, textiles, food and beverage, and nutraceuticals.[16]
+
+Pilot Plants and Commercialization[edit]
+York Pilot Plant (Nebraska, US)[edit]
+Abengoa's biomass pilot plant opened in 2008 in York, Nebraska. This $35 million biomass facility will exclusively research and develop ethanol production processes using enzymatic hydrolysis and lignocellulosic biomass as a feedstock. The York facility will research and test proprietary technology for its commercial-scale facilities. The plant currently operates at 100% of its capacity and continues to demonstrate excellent efficiency and consistent operation. The York pilot plant uses an annual consumption of 520,000 tons of corn stover to produce 56 Mgal(210 ML) of bioethanol per year, through continuous batch cooking and fermenting process.[17]
+
+BCyL Demonstration Plant (Salamanca, Spain)[edit]
+In 2009, the biomass plant Biocarburantes Castilla y León (BCyL) started operation as the first demonstration plant to process biomass-to-ethanol on a commercial scale. The plant produces 1.3 Mgal/year using wheat and barley straw biomass.[18]
+
+Hugoton Commercial Hybrid Biomass Plant (Kansas, US)[edit]
+The construction of this commercial scale biorefinery facility by Abengoa Bioenergy Biomass of Kansas (ABBK) allowed them to use their proprietary technology that they developed over the last decade to produce cost-effective and renewable liquid fuel from plantfiber or cellulosic biomass. The plant produced 25 Mgal/year from 350, 000 tons of biomass/year. The residues of the biorefinery process were combusted with 300 tons/day of fry, raw biomass material to produce 18 megawatts of electricity to power the entire facility to make it energy efficient and environmentally friendly. The plant was in full production by 2014.[19] The plant officially opened on October 17, 2014.[20] The plant shut down its operation on December 10, 2015.[21]
+
+Abeinsa (Engineering and Construction)[edit]
+Abeinsa is the branch of Abengoa responsible for engineering and construction. This company is consolidated Abener Engineering and Construction Services, Teyma, and Abacus Project Management.
+
+Financial difficulties[edit]
+In January 2015, Abengoa announced it had raised $328 million from selling shares at its US division following further purchases of their stock from banks underwriting the offer.[22]
+In November 25, 2015 Abengoa started insolvency proceedings which could lead to Spain's largest bankruptcy on record, after a Gonvarri said it would not inject 350 million euros into the engineering and renewables company.[23][24] In a 2016 effort to avoid bankruptcy, Abengoa is seeking to reduce its size by 30 percent by selling subsidiaries.[25]
+On February 15, 2016, a Nebraska grain dealer filed a petition to force Abengoa Bioenergy into bankruptcy so as to recover moneys owed to them for past corn deliveries.[26]
+On March 29, 2016, Abengoa filed for bankruptcy in the United States.[27]
+
+Competitors[edit]
+CIE Automotive´s subsidiary Bionor (biodiesel)
+Ence
+Ferrostaal
+See also[edit]
+
+
+Companies portal
+Renewable energy portal
+Concentrating solar power
+Renewable energy companies on the stock exchange
+PS10 solar power tower
+PS20 solar power tower
+Solana solar power plant
+Telvent
+References[edit]
+
+
+^ "Company figures".
+
+^ "Abengoa Relevant Reports".
+
+^ "Q3 2019 presentation" (PDF).
+
+^ "Abengoa Company History". Archived from the original on 2013-06-13.
+
+^ "Spanish Renewable Energy Firm Files for Insolvency".
+
+^ "Annual Report 2014: Legal and Economic-Financial Information" (PDF). Archived (PDF) from the original on 2015-11-25.
+
+^ "Abengoa: la empresa que nació con 180.000 pesetas y llegó a medio mundo". sevilla (in Spanish). 2015-11-25. Retrieved 2019-12-27.
+
+^ "Abengoa Solar is awarded two R&D contracts by the US Department of Energy". September 30, 2008. Archived from the original on June 20, 2013. Retrieved February 27, 2013.
+
+^ Pace, Julie (July 3, 2010). "Obama awards $2B for solar power, hails new jobs". Associated Press. Archived from the original on February 21, 2011. Retrieved February 27, 2013.
+
+^ csp-world.com Abengoa's Mojave 250 MW CSP plant enters commercial operation, 2 December 2014
+
+^ "Abengoa Bioenergy :: 2G Hugoton Project :: General information ::". Archived from the original on 2013-06-10.
+
+^ "Abengoa Bioenergy :: Press room :: News :: News archive :: 2003 ::". Archived from the original on 2015-05-01.
+
+^ "Archived copy" (PDF). Archived (PDF) from the original on 2015-05-08. Retrieved 2013-04-12.CS1 maint: archived copy as title (link)
+
+^ a b c d e f g h i "METHOD FOR PRODUCING ETHANOL AND CO-PRODUCTS FROM CELLULOSIC BIOMASS - Patent application". Archived from the original on 2013-05-28.
+
+^ a b Dyadic International, Inc. (1 May 2012). "Dyadic International Expands License Agreement With Abengoa". Archived from the original on 8 April 2014.
+
+^ a b c "C1 Technology Solutions - Dyadic.com".
+
+^ "Abengoa Bioenergy :: About us :: Locations & sites :: Bioethanol :: United States :: Abengoa Bioenergy Corporation - York ::". Archived from the original on 2014-05-11.
+
+^ [1]
+
+^ "Abengoa Bioenergía :: 2G Proyecto Hugoton :: Información general ::". Archived from the original on 2013-06-08.
+
+^ "Abengoa Opens". Archived from the original on 2016-03-06. Retrieved 2016-03-01.
+
+^ "Abengoa's financial woes spread to U.S. biofuel plants". Archived from the original on 2016-03-06. Retrieved 2016-03-01.
+
+^ "Spain's Abengoa raises $328 million from U.S. share sale" (Press release). Reuters. 17 January 2015. Archived from the original on 13 April 2015.
+
+^ "Abengoa starts insolvency proceedings after potential investor backs off". reuters.com/. reuters. Archived from the original on 26 November 2015. Retrieved 25 November 2015.
+
+^ Luca Casiraghi (1 December 2015). "Abengoa, the Teetering Sun King of Spain, Prepares for End Game". Bloomberg.com. Archived from the original on 29 July 2016.
+
+^ "Abengoa Said to Plan Shrinking by 30% to Avoid Insolvency". 14 January 2016. Archived from the original on 26 July 2016 – via www.bloomberg.com.
+
+^ Agland, John Green Kansas. "Grain dealers seek forced foreclosure of Abengoa properties".
+
+^ Fitzgerald, Patrick (29 March 2016). "Spain's Abengoa Files for Chapter 15 Bankruptcy in U.S." Archived from the original on 4 April 2016 – via www.wsj.com.
+
+
+vteSolar energy in the European Union
+European Renewable Energy Council
+European Photovoltaic Industry Association
+Solar power by country#Europe
+Albania
+Austria
+Belgium
+Bulgaria
+Cyprus
+Czech Republic
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Italy
+Lithuania
+Netherlands
+Poland
+Portugal
+Romania
+Spain
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Solar thermal power stations
+Alvarado (50 MW)
+Andasol (150 MW)
+Extresol (150 MW)
+Gemasolar (20 MW)
+Puertollano (50 MW)
+PS20 (20 MW)
+PS10 (11 MW)
+Puerto Errado (31 MW)
+Solnova (150 MW)
+Termosolar Borges (25 MW)
+Valle (100 MW)
+Photovoltaic power stations
+Alt Daber (68 MW)
+Brandenburg-Briest (91 MW)
+Crucey (60 MW)
+Eggebek (84 MW)
+Finow Tower (85 MW)
+Finsterwalde (81 MW)
+Gabardan (67 MW)
+Karadzhalovo (60 MW)
+Lieberose (71 MW)
+Meuro (70 MW)
+Montalto di Castro (84 MW)
+Neuhardenberg (145 MW)
+Okhotnykovo (80 MW)
+Olmedilla (60 MW)
+Perovo (100 MW)
+Rovigo (72 MW)
+Senftenberg (82 MW)
+Templin (128 MW)
+Toul-Rosières (115 MW)
+
+Authority control General
+ISNI
+1
+Other
+Microsoft Academic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Abengoa&oldid=1038199496"
+Categories: AbengoaCompanies formerly listed on the NasdaqMultinational companies headquartered in SpainCompanies of AndalusiaSevilleConglomerate companies established in 1941Companies listed on the Madrid Stock ExchangeConglomerate companies of SpainSpanish brandsBiotechnology companies established in 1941Spanish companies established in 1941Hidden categories: CS1 Spanish-language sources (es)CS1 maint: archived copy as titleWikipedia articles with ISNI identifiersWikipedia articles with MA identifiers
+
+
+
+
+
+
+Navigation menu
+
+
+Personal tools
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+Namespaces
+
+
+ArticleTalk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+Views
+
+
+ReadEditView history
+
+
+
+
+More
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+Contribute
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+Print/export
+
+
+Download as PDFPrintable version
+
+
+
+In other projects
+
+
+Wikimedia Commons
+
+
+
+Languages
+
+
+العربيةAsturianuCatalàDeutschEspañolEuskaraفارسیFrançaisPortuguês中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 11 August 2021, at 03:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+

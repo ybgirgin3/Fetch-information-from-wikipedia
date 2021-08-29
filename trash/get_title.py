@@ -4,18 +4,20 @@ from get_sub import main
 
 
 #url = "https://en.wikipedia.org//wiki/Abengoa"
+sub_dir = '../sub'
+file = 'German brands.txt'
+main(sub_dir, file)
 
-fn, url_list = main()
 
-for url in url_list:
-    if 'Category' not in url:
-        #fn = url.split('/')[-1]
-        html = urlopen(url).read()
-        soup = BS(html, features="html.parser")
-        page = soup.find('p').get_text()
-        #print(page)
-        with open(f"{fn}", "a") as f:
-          f.write(f"{page}")
+#for url in url_list:
+#    if 'Category' not in url:
+#        #fn = url.split('/')[-1]
+#        html = urlopen(url).read()
+#        soup = BS(html, features="html.parser")
+#        page = soup.find('p').get_text()
+#        #print(page)
+#        with open(f"{fn}", "a") as f:
+#          f.write(f"{page}")
 
 
         #for script in soup(["script", "style"]):

@@ -69,7 +69,7 @@ def write_to_file(web_source: str, subdir: str, q: str, data: list) -> None:
     with open(str(fn), "w") as f:
         for link in data:
             f.write(f"{url}/{link}\n")
-        print("done.. 👍🏻")
+        print(f"urls written to {fn} .. 👍🏻")
 
 
 def get_text(src: str) -> list:
@@ -93,6 +93,7 @@ def get_information(urls: list, info_dir: str) -> None:
             with open(f"{info_dir}", "a") as f:
                 f.write("{}\n".format("-" * 40))
                 f.write(f"{page}")
+    print(f"information written to {info_dir} .. 👍🏻")
 
 
 if __name__ == "__main__":

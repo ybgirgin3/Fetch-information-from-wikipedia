@@ -10,6 +10,20 @@ import sys
 import os
 
 
+def create_folders(fn):
+    """
+    @param1: fn: target folder name
+    """
+    # dosya var mı
+    # yoksa yarat
+    # varsa pas geç
+    if not os.path.exists(fn):
+        # bir tane klasör oluşturacaksan
+        os.mkdir(fn)
+    else:
+        pass
+
+
 def get_links(link: str, query: str) -> list:
     all_fetched_links = []
     webpage = requests.get(f"{link}/wiki/Category:{query}")
@@ -45,7 +59,8 @@ def control(fn):
 def look_for_file(fn):
     # fn = f"sub/{filename}.txt"
     if control(fn):
-        ask = str(input(f"file is exists do you want to override? {fn} [Y/n]: "))
+        ask = str(
+            input(f"file is exists do you want to override? {fn} [Y/n]: "))
         if ask in ("Y", "y"):
             os.remove(fn)
             return fn
@@ -99,7 +114,17 @@ def get_information(urls: list, info_dir: str) -> None:
 if __name__ == "__main__":
     # variables
     # q = "Spanish brands"
-    q = sys.argv[1]
+    create_folders("sub")
+    create_folders("info")
+
+countries = [
+    "Spanish", "German", "Italian", "French", "American", "Dutch"
+]
+# variables
+# q = "Spanish brands"
+for q in countries:
+    q = f"{q} brands"
+    # q = sys.argv[1]
     sub_dir = os.path.join("sub", f"{q}.txt")
     info_dir = os.path.join("info", f"{q}_info.txt")
     link = "https://en.wikipedia.org"
